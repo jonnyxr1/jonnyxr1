@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonnyxr1
-- 👀 I’m interested in data scientist
-- 🌱 I’m currently learning data scientist
+- 👀 I’m interested in front end development
+- 🌱 I’m currently front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jonnyct94@gmail.com
 
